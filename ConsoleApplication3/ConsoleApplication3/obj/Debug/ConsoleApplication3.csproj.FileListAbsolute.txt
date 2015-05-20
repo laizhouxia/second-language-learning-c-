@@ -1,0 +1,9 @@
+c:\users\naijia\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\naijia\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\naijia\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\naijia\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\HtmlAgilityPack.dll
+c:\users\naijia\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\HtmlAgilityPack.pdb
+c:\users\naijia\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\HtmlAgilityPack.xml
+c:\users\naijia\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+c:\users\naijia\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\naijia\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

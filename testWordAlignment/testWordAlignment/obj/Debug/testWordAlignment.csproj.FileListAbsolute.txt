@@ -1,0 +1,6 @@
+c:\users\naijia\documents\visual studio 2015\Projects\testWordAlignment\testWordAlignment\bin\Debug\testWordAlignment.exe.config
+c:\users\naijia\documents\visual studio 2015\Projects\testWordAlignment\testWordAlignment\obj\Debug\testWordAlignment.csprojResolveAssemblyReference.cache
+C:\Users\Naijia\Documents\Visual Studio 2015\Projects\testWordAlignment\testWordAlignment\bin\Debug\testWordAlignment.exe
+C:\Users\Naijia\Documents\Visual Studio 2015\Projects\testWordAlignment\testWordAlignment\bin\Debug\testWordAlignment.pdb
+C:\Users\Naijia\Documents\Visual Studio 2015\Projects\testWordAlignment\testWordAlignment\obj\Debug\testWordAlignment.exe
+C:\Users\Naijia\Documents\Visual Studio 2015\Projects\testWordAlignment\testWordAlignment\obj\Debug\testWordAlignment.pdb

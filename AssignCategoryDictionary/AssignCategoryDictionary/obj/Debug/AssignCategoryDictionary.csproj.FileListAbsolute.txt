@@ -1,0 +1,6 @@
+c:\users\naijia\documents\visual studio 2015\Projects\AssignCategoryDictionary\AssignCategoryDictionary\bin\Debug\AssignCategoryDictionary.exe.config
+c:\users\naijia\documents\visual studio 2015\Projects\AssignCategoryDictionary\AssignCategoryDictionary\bin\Debug\AssignCategoryDictionary.exe
+c:\users\naijia\documents\visual studio 2015\Projects\AssignCategoryDictionary\AssignCategoryDictionary\bin\Debug\AssignCategoryDictionary.pdb
+c:\users\naijia\documents\visual studio 2015\Projects\AssignCategoryDictionary\AssignCategoryDictionary\obj\Debug\AssignCategoryDictionary.csprojResolveAssemblyReference.cache
+c:\users\naijia\documents\visual studio 2015\Projects\AssignCategoryDictionary\AssignCategoryDictionary\obj\Debug\AssignCategoryDictionary.exe
+c:\users\naijia\documents\visual studio 2015\Projects\AssignCategoryDictionary\AssignCategoryDictionary\obj\Debug\AssignCategoryDictionary.pdb
